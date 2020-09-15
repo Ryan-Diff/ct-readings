@@ -1,4 +1,4 @@
-- ## (https://aws.amazon.com/redis/)
+- ## REDIS
 
 * Remote Dictionary Server is an open source key-value data store
 * It keeps information in memory rather than on the hard drive to speed up response times
