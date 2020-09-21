@@ -1,4 +1,4 @@
-- http Basics (https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+## http Basics (https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 * Hyper Text Transfer Protocol
 * HTTP is a stateless protocol
 * HTTP Verbs include the most popular: GET, POST, PUT, DELETE
